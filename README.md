@@ -28,7 +28,7 @@ export default function DavidSaaS() {
     return {
       status: "ALLOWED"
     };
-  }
+  {
 
   // -------------------------------
   // RUN ACTION
